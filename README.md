@@ -23,10 +23,14 @@ Test preparation course completion
 
 Dependent Variables:
 
-Math score
-Reading score
-Writing score
-Aggregate score (calculated as the average of math, reading, and writing scores)
+Math score![image](https://github.com/user-attachments/assets/b9984d65-4872-4525-a48d-f272e656194c)
+
+Reading score![image](https://github.com/user-attachments/assets/764ee099-2712-4d2e-87b1-7afc61957ee4)
+
+Writing score![image](https://github.com/user-attachments/assets/25d54c64-7941-4258-b104-e22e58d5a456)
+
+Aggregate score (calculated as the average of math, reading, and writing scores)![image](https://github.com/user-attachments/assets/c49229c6-8193-4875-aeb4-506688c35b97)
+
 
 📈 Key Findings
 Gender-Based Performance Differences
@@ -41,7 +45,7 @@ Test Preparation: Students who completed test preparation courses outperformed n
 Installation
 
 Clone this repository:
-bashgit clone https://github.com/yourusername/student-performance-analysis.git
+bashgit clone https://github.com/ojeniyiwale/student-performance-analysis.git
 cd student-performance-analysis
 
 Create a virtual environment and install dependencies:
@@ -55,13 +59,17 @@ bashjupyter notebook notebooks/student_performance_analysis.ipynb
 
 📊 Visualizations
 Gender Performance Across Subjects
-Show Image
+![image](https://github.com/user-attachments/assets/d55f2fcf-3f07-40a3-afff-ecb7a85c63f1)
+
 Parental Education Impact
-Show Image
+![image](https://github.com/user-attachments/assets/9d48e4e6-d3aa-4276-ac7b-140845d6010f)
+
 Economic Status Effect
-Show Image
+![image](https://github.com/user-attachments/assets/7f617c6b-1d0f-4a26-89a5-c9023978bc81)
+
 Test Preparation Impact
-Show Image
+![image](https://github.com/user-attachments/assets/24f220e9-558b-4ad5-bda6-aa07c44f9144)
+
 📝 Recommendations
 Based on our findings, we recommend:
 
