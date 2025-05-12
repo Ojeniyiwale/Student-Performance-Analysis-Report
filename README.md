@@ -48,15 +48,6 @@ Clone this repository:
 bashgit clone https://github.com/ojeniyiwale/student-performance-analysis.git
 cd student-performance-analysis
 
-Create a virtual environment and install dependencies:
-bashpython -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
-
-Run the Jupyter notebook:
-bashjupyter notebook notebooks/student_performance_analysis.ipynb
-
-
 📊 Visualizations
 Gender Performance Across Subjects
 ![image](https://github.com/user-attachments/assets/d55f2fcf-3f07-40a3-afff-ecb7a85c63f1)
