@@ -4,6 +4,7 @@ Student Performance Analysis
 
 📊 Overview
 This project investigates the relationships between student performance and various demographic and academic factors. By analyzing test scores across different subject areas and their correlations with socioeconomic indicators, we aim to identify key factors influencing academic achievement and provide actionable recommendations for educators and policymakers.
+
 🎯 Key Objectives
 
 Identify significant correlations between student performance and demographic/socioeconomic factors
