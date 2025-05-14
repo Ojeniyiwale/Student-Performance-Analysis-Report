@@ -62,7 +62,7 @@ Test Preparation Impact
 ![image](https://github.com/user-attachments/assets/24f220e9-558b-4ad5-bda6-aa07c44f9144)
 
 📝 Recommendations
-Based on our findings, we recommend:
+Based on findings,  recommendation:
 
 Gender-Specific Interventions: Targeted math support for female students and reading/writing enhancement for male students
 Socioeconomic Support: Expanded access to educational resources for disadvantaged students
